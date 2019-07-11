@@ -1,3 +1,3 @@
 console.log('b2');
 
-console.log('b6');
+console.log('b8');
